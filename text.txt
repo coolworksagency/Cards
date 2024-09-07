@@ -1,0 +1,18 @@
+section.products
+div.all-products
+.product
+div.product-info
+h4.product-title
+p.product-price
+a.product-btn
+
+1.AirPod 2nd Gen
+$129
+Buy Now
+2.Apple Watch
+iPhone 14
+$999
+Buy Now
+3.iPan Pro
+$629
+Buy Now	
